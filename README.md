@@ -50,10 +50,18 @@ With a background in networking and a growing passion for cybersecurity, I’m e
 ## Certifications
 
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-ITIL%204-003F6C?&style=for-the-badge&logo=itil&logoColor=white" />
+<a href="https://github.com/nahomyOvanna/nahomyOvanna/blob/main/CompTIA%20Security%2B%20ce%20certificate.pdf" target="_blank">
+  <img src="https://img.shields.io/badge/-CompTIA%20Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" alt="CompTIA Security+ Certificate"/>
+</a>
+<a href="https://github.com/nahomyOvanna/nahomyOvanna/blob/main/CompTIA%20Network%2B%20ce%20certificate.pdf" target="_blank">
+  <img src="https://img.shields.io/badge/-CompTIA%20Network%2B-00A3E0?&style=for-the-badge&logo=CompTIA&logoColor=white" alt="CompTIA Network+ Certificate"/>
+</a>
+<a href="https://github.com/nahomyOvanna/nahomyOvanna/blob/main/CompTIA%20A%2B%20ce%20certificate.pdf" target="_blank">
+  <img src="https://img.shields.io/badge/-CompTIA%20A%2B-0098D4?&style=for-the-badge&logo=CompTIA&logoColor=white" alt="CompTIA A+ Certificate"/>
+</a>
+<a href="https://github.com/nahomyOvanna/nahomyOvanna/blob/main/ITIL%20cert.pdf" target="_blank">
+  <img src="https://img.shields.io/badge/-ITIL%20V4-003F6C?&style=for-the-badge&logo=itil&logoColor=white" alt="ITIL V4 Certificate"/>
+</a>
 </div>
 
 ## Projects
