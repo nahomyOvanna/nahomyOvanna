@@ -13,12 +13,12 @@ With a background in networking and a growing passion for cybersecurity, I’m e
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Virtualization technologies and operating system installation         | <a href="https://google.com">Virtual Lab Environment Setup</a>|
-| Python Keylogger Development | <a href="https://google.com">Detection Lab</a>|
-| Malware analysis         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Virtualization Technologies and Operating System installation         | <a href="https://google.com">Virtual Lab Environment Setup</a>|
+| SIEM Implementation and Log Analysis | <a href="https://google.com">Detection Lab</a>|
+| IDS/ZEEK Network Monitoring         | IDS/ZEEK network monitoring |
+| Malware Analysis      | Malware analysis|
+| Vulnerability Assessment, Remediation and Documentation	               | name name|
+| Python Keylogger Development | Python Keylogger Development|
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
