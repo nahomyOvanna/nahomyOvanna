@@ -13,46 +13,52 @@ With a background in networking and a growing passion for cybersecurity, I’m e
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Virtualization Technologies and Operating System installation         | <a href="https://google.com">Virtual Lab Environment Setup</a>|
-| SIEM Implementation and Log Analysis | <a href="https://google.com">Detection Lab</a>|
-| IDS/ZEEK Network Monitoring         | IDS/ZEEK network monitoring |
-| Malware Analysis      | Malware analysis|
-| Vulnerability Assessment, Remediation and Documentation	               | name name|
-| Python Keylogger Development | Python Keylogger Development|
+| Virtualization Technologies and Operating System installation         | <a href="https://google.com">VIRT-LAB: Oracle VirtualBox with Ubuntu & Kali</a>|
+| SIEM Implementation and Log Analysis | <a href="https://google.com">ELK & Splunk: SIEM Deployment & Analysis</a>|
+| IDS/ZEEK Network Monitoring         | <a href="https://google.com">ZeekNet: IDS-based Network Monitoring</a>|
+| Vulnerability Assessment, Remediation and Documentation	               | <a href="https://google.com">SecuScan: Vulnerability Assessment & Remediation</a>|
+| Python Keylogger Development | <a href="https://google.com">PyKeyLogger Project </a>|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
-### Network
+### 🖥️ Virtualization
 <div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Oracle%20VirtualBox-183A7A?&style=for-the-badge&logo=oracle&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Ubuntu-E95420?&style=for-the-badge&logo=ubuntu&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Kali%20Linux-000000?&style=for-the-badge&logo=kali-linux&logoColor=white" />
+
+### 📊 SIEM & Log Analysis
+<div>
+    <img src="https://img.shields.io/badge/-ELK%20Stack-005571?&style=for-the-badge&logo=elasticsearch&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=splunk&logoColor=white" />
+</div>
+
+### 🔒 Network Security
+<div>
+    <img src="https://img.shields.io/badge/-Snort-FF0000?&style=for-the-badge&logo=snort&logoColor=white" />
     <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
     <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
 </div>
 
-### Endpoint
+### 🔍 Vulnerability Assessment
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
-
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Tenable%20Nessus-3D3D3D?&style=for-the-badge&logo=tenable&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Nmap-000000?&style=for-the-badge&logo=nmap&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
+
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-ITIL%204-003F6C?&style=for-the-badge&logo=itil&logoColor=white" />
 </div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+- **VIRT-LAB**: Oracle VirtualBox with Ubuntu & Kali
+- **ELK & Splunk**: SIEM Deployment & Analysis
+- **ZeekNet**: IDS-based Network Monitoring
+- **SecuScan**: Vulnerability Assessment & Remediation
+- **PyKeyLogger Project**: Python Keylogger Development
