@@ -10,13 +10,12 @@ Welcome to my GitHub profile! I’m excited to launch my career in cybersecurity
 With a background in networking and a growing passion for cybersecurity, I’m excited to transition into this field and secure a role as a Tier 1 Analyst in a Security Operations Center (SOC). Explore my repositories to see what I’ve been working on, and feel free to connect if you’d like to chat about cybersecurity!
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
+| Virtualization technologies and operating system installation         | <a href="https://google.com">Virtual Lab Environment Setup</a>|
+| Python Keylogger Development | <a href="https://google.com">Detection Lab</a>|
+| Malware analysis         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
