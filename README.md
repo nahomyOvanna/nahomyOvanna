@@ -13,7 +13,7 @@ With a background in networking and a growing passion for cybersecurity, I’m e
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Virtualization Technologies and Operating System installation         | <a href="https://google.com" target="_blank" rel="noopener noreferrer">Go to Google</a> VIRT-LAB: Oracle VirtualBox with Ubuntu & Kali</a>|
+| Virtualization Technologies and Operating System installation         | <a href="https://google.com" target="_blank" rel="noopener noreferrer">Go to Google</a>VIRT-LAB: Oracle VirtualBox with Ubuntu & Kali</a>|
 | SIEM Implementation and Log Analysis | <a href="https://google.com">ELK & Splunk: SIEM Deployment & Analysis</a>|
 | IDS/ZEEK Network Monitoring         | <a href="https://google.com">ZeekNet: IDS-based Network Monitoring</a>|
 | Vulnerability Assessment, Remediation and Documentation	               | <a href="https://google.com">SecuScan: Vulnerability Assessment & Remediation</a>|
