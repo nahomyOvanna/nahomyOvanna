@@ -66,7 +66,7 @@ With a background in networking and a growing passion for cybersecurity, I’m e
 </div>
 
 ## Projects
-- <a href="https://google.com](https://github.com/nahomyOvanna/VIRT-LAB-Oracle-VirtualBox-with-Ubuntu-Kali">VIRT-LAB: Oracle VirtualBox with Ubuntu & Kali</a>
+- <a href="https://github.com/nahomyOvanna/VIRT-LAB-Oracle-VirtualBox-with-Ubuntu-Kali">VIRT-LAB: Oracle VirtualBox with Ubuntu & Kali</a>
 - **Network Security**: Attack-Defense Security Simulation
 - **ELK & Splunk**: SIEM Deployment & Analysis
 - **ZeekNet**: IDS-based Network Monitoring
