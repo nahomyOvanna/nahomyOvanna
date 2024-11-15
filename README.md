@@ -67,6 +67,7 @@ With a background in networking and a growing passion for cybersecurity, I’m e
 
 ## Projects
 - **VIRT-LAB**: Oracle VirtualBox with Ubuntu & Kali
+- **Network Security**: Attack-Defense Security Simulation
 - **ELK & Splunk**: SIEM Deployment & Analysis
 - **ZeekNet**: IDS-based Network Monitoring
 - **SecuScan**: Vulnerability Assessment & Remediation
