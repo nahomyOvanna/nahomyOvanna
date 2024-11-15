@@ -13,7 +13,7 @@ With a background in networking and a growing passion for cybersecurity, I’m e
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Virtualization Technologies and Operating System installation         | <a href="https://google.com](https://github.com/nahomyOvanna/VIRT-LAB-Oracle-VirtualBox-with-Ubuntu-Kali">VIRT-LAB: Oracle VirtualBox with Ubuntu & Kali</a>|
+| Virtualization Technologies and Operating System installation         | <a href="https://github.com/nahomyOvanna/VIRT-LAB-Oracle-VirtualBox-with-Ubuntu-Kali">VIRT-LAB: Oracle VirtualBox with Ubuntu & Kali</a>|
 | NAT, Nmap, UFW, Wireshark | <a href="https://google.com">Network Security: Attack & Defense</a>|
 | SIEM Implementation and Log Analysis | <a href="https://google.com">ELK & Splunk: SIEM Deployment & Analysis</a>|
 | IDS/ZEEK Network Monitoring         | <a href="https://google.com">ZeekNet: IDS-based Network Monitoring</a>|
