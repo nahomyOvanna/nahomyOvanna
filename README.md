@@ -1,52 +1,36 @@
-# Hello, I'm Nahomy
-<a href="https://linkedin.com/in/nahomy-ovanna-06bbb6267"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+# 👋 Hey there, I'm Nahomy
 
-## 🚀 Embarking on a Cybersecurity Journey
+### 🌐 Cloud Networking Enthusiast | ⚙️ Aspiring Infrastructure Engineer | 🔐 Security-Aware Technologist
 
-Welcome to my GitHub profile! I’m excited to launch my career in cybersecurity. Here, you’ll find a collection of my projects, skills, and explorations in the world of security.
+Welcome to my GitHub! This space is part portfolio, part digital journal — where I build, break, fix, learn and document my hands-on journey into **cloud networking** — from traditional L3 routing labs in GNS3 to designing scalable, resilient network architectures in the cloud.
 
-## 🎯 Objective
+I'm currently focused on mastering **enterprise networking**, **cloud infrastructure**, and **dynamic routing technologies**. With a background in networking and **cybersecurity fundamentals**, I approach cloud with a deep understanding of **IP addressing**, **routing logic**, and **protocol behaviors** —all essential skills for a cloud infrastructure engineer.
 
-With a background in networking and a growing passion for cybersecurity, I’m excited to transition into this field and secure a role as a Tier 1 Analyst in a Security Operations Center (SOC). Explore my repositories to see what I’ve been working on, and feel free to connect if you’d like to chat about cybersecurity!
+---
 
-## Skills
+## 🚀 Current Focus
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| Virtualization Technologies and Operating System installation         | <a href="https://github.com/nahomyOvanna/VIRT-LAB-Oracle-VirtualBox-with-Ubuntu-Kali">VIRT-LAB: Oracle VirtualBox with Ubuntu & Kali</a>|
-| Network scanning, UFW firewall configuration and traffic analysis | <a href="https://github.com/nahomyOvanna/NetworkSecurity---Attack-and-Defense">Network Security: Attack & Defense</a>|
-| SIEM Implementation and Log Analysis | <a href="https://google.com">ELK & Splunk: SIEM Deployment & Analysis</a>|
-| IDS/ZEEK Network Monitoring         | <a href="https://google.com">ZeekNet: IDS-based Network Monitoring</a>|
-| Vulnerability Assessment, Remediation and Documentation	               | <a href="https://google.com">SecuScan: Vulnerability Assessment & Remediation</a>|
-| Python Keylogger Development | <a href="https://google.com">PyKeyLogger Project </a>|
+- 🧠 Learning dynamic routing protocols (OSPF, BGP)
+- 🛠️ Practicing Layer 3 troubleshooting in GNS3 and cloud labs
+- ☁️ Exploring hybrid cloud networking concepts
+- 📚 Preparing for certifications in cloud, SD-WAN, and security
 
-## Tools
+---
 
-### 🖥️ Virtualization
-<div>
-    <img src="https://img.shields.io/badge/-Oracle%20VirtualBox-183A7A?&style=for-the-badge&logo=oracle&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Ubuntu-E95420?&style=for-the-badge&logo=ubuntu&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Kali%20Linux-000000?&style=for-the-badge&logo=kali-linux&logoColor=white" />
+## 🔍 Projects in Progress
 
-### 📊 SIEM & Log Analysis
-<div>
-    <img src="https://img.shields.io/badge/-ELK%20Stack-005571?&style=for-the-badge&logo=elasticsearch&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=splunk&logoColor=white" />
-</div>
+Take a look at my lab-based repositories:
 
-### 🔒 Network Security
-<div>
-    <img src="https://img.shields.io/badge/-Snort-FF0000?&style=for-the-badge&logo=snort&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
-</div>
+| 🔗 Project | 💡 Focus Area |
+|-----------|---------------|
+| [`Lab01-Static-Two-VyOS`](https://github.com/nahomyovanna/Lab01-Static-Two-VyOS) | Static routing between two routers |
+| [`Lab02-Static-Multihop`](https://github.com/nahomyovanna/Lab02-Static-Multihop) | Static routing across 3 routers |
+| [`Lab03-Failure-Simulation`](https://github.com/nahomyovanna/Lab03-Failure-Simulation) | Static routing failure + redundancy |
+| [`Lab04-OSPF`](https://github.com/nahomyovanna/Lab04-OSPF) *(coming soon)* | Dynamic routing with OSPF |
 
-### 🔍 Vulnerability Assessment
-<div>
-    <img src="https://img.shields.io/badge/-Tenable%20Nessus-3D3D3D?&style=for-the-badge&logo=tenable&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Nmap-000000?&style=for-the-badge&logo=nmap&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-</div>
+More labs coming soon 🚧
+
+---
 
 ## Certifications
 
@@ -65,10 +49,17 @@ With a background in networking and a growing passion for cybersecurity, I’m e
 </a>
 </div>
 
-## Projects
-- <a href="https://github.com/nahomyOvanna/VIRT-LAB-Oracle-VirtualBox-with-Ubuntu-Kali">VIRT-LAB: Oracle VirtualBox with Ubuntu & Kali</a>
-- <a href="https://github.com/nahomyOvanna/NetworkSecurity---Attack-and-Defense">Network Security: Attack & Defense</a>
-- **ELK & Splunk**: SIEM Deployment & Analysis
-- **ZeekNet**: IDS-based Network Monitoring
-- **SecuScan**: Vulnerability Assessment & Remediation
-- **PyKeyLogger Project**: Python Keylogger Development
+---
+
+## 🌱 About Me
+
+I transitioned into tech with a mission to understand how networks and cloud infrastructure shape our connected world. Every lab here is a step toward becoming a well-rounded infrastructure engineer — and hopefully, inspiring others navigating their own path in tech.
+
+---
+
+## 🤝 Let’s Connect
+
+Feel free to reach out or follow along:
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nahomy-ovanna-06bbb6267)
+
