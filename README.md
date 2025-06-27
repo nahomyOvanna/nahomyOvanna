@@ -1,10 +1,8 @@
-# 👋 Hey there, I'm Nahomy
+# 👋 Hey there, I'm Nahomy Ovanna
 
-### 🌐 Cloud Networking Enthusiast | ⚙️ Aspiring Infrastructure Engineer | 🔐 Security-Aware Technologist
+### 🌐 Aspiring Cloud Infrastructure Engineer | ⚙️ GNS3 Lab Builder | 🔀 Routing Enthusiast
 
-Welcome to my GitHub! This space is part portfolio, part digital journal — where I build, break, fix, learn and document my hands-on journey into **cloud networking** — from traditional L3 routing labs in GNS3 to designing scalable, resilient network architectures in the cloud.
-
-I'm currently focused on mastering **enterprise networking**, **cloud infrastructure**, and **dynamic routing technologies**. With a background in networking and **cybersecurity fundamentals**, I approach cloud with a deep understanding of **IP addressing**, **routing logic**, and **protocol behaviors** —all essential skills for a cloud infrastructure engineer.
+I'm currently focused on mastering **enterprise routing**, **cloud infrastructure design**, and **network automation**. With a foundation in traditional networking and cybersecurity, I bring a strong understanding of IP architecture, routing behavior, and layered troubleshooting — all essential for building modern, scalable cloud environments.
 
 ---
 
@@ -24,7 +22,7 @@ Take a look at my lab-based repositories:
 | 🔗 Project | 💡 Focus Area |
 |-----------|---------------|
 | [`Lab01-Static-Two-VyOS`](https://github.com/nahomyovanna/Lab01-Static-Two-VyOS) | Static routing between two routers |
-| [`Lab02-Static-Multihop`](https://github.com/nahomyovanna/Lab02-Static-Multihop) | Static routing across 3 routers |
+| [`Lab02-Static-Multihop`](https://github.com/nahomyovanna/Lab02-Static-Multihop) | Static routing across multi-hop routers |
 | [`Lab03-Failure-Simulation`](https://github.com/nahomyovanna/Lab03-Failure-Simulation) | Static routing failure + redundancy |
 | [`Lab04-OSPF`](https://github.com/nahomyovanna/Lab04-OSPF) *(coming soon)* | Dynamic routing with OSPF |
 
@@ -32,7 +30,7 @@ More labs coming soon 🚧
 
 ---
 
-## Certifications
+## 📜 Verified Certifications
 
 <div>
 <a href="https://github.com/nahomyOvanna/nahomyOvanna/blob/main/CompTIA%20Security%2B%20ce%20certificate.pdf" target="_blank">
@@ -53,7 +51,13 @@ More labs coming soon 🚧
 
 ## 🌱 About Me
 
-I transitioned into tech with a mission to understand how networks and cloud infrastructure shape our connected world. Every lab here is a step toward becoming a well-rounded infrastructure engineer — and hopefully, inspiring others navigating their own path in tech.
+I transitioned into tech with a mission to understand how cloud and network infrastructure shape our connected world. I learn by doing — building labs, breaking things, and fixing them again — and I document it all here to solidify my skills and help others on a similar path.
+
+I’m passionate about cloud networking because it combines my love of architecture, security, and systems thinking. Whether configuring OSPF in GNS3 or planning for BGP-based redundancy in the cloud, I’m driven by the challenge of designing systems that are resilient, scalable, and efficient.
+
+
+
+
 
 ---
 
