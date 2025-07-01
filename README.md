@@ -24,7 +24,7 @@ Take a look at my lab-based repositories:
 | [`Lab01-Static-Two-VyOS`](https://github.com/nahomyOvanna/Networking-labs/blob/main/Lab01-Static-Two-VyOS/README.md) | Static routing between two routers |
 | [`Lab02-Static-Multihop`](https://github.com/nahomyOvanna/Networking-labs/blob/main/Lab-02-Staticrouting-Multi-hop-VyOS/README.md) | Static routing across multi-hop routers |
 | [`Lab03-Failure-Simulation`](https://github.com/nahomyOvanna/Networking-labs/blob/main/Lab-03-Failure-Simulation/README.md) | Static routing failure + redundancy |
-| [`Lab04-OSPF`](https://github.com/nahomyovanna/Lab04-OSPF) *(coming soon)* | Dynamic routing with OSPF |
+| [`Lab-04-Dynamic-Routing-OSPF`](https://github.com/nahomyOvanna/Networking-labs/blob/main/Lab-04-Dynamic-Routing-OSPF/README.md)  | Dynamic routing with OSPF |
 
 More labs coming soon 🚧
 
