@@ -25,6 +25,7 @@ Take a look at my lab-based repositories:
 | [`Lab02-Static-Multihop`](https://github.com/nahomyOvanna/Networking-labs/blob/main/Lab-02-Staticrouting-Multi-hop-VyOS/README.md) | Static routing across multi-hop routers |
 | [`Lab03-Failure-Simulation`](https://github.com/nahomyOvanna/Networking-labs/blob/main/Lab-03-Failure-Simulation/README.md) | Static routing failure + redundancy |
 | [`Lab-04-Dynamic-Routing-OSPF`](https://github.com/nahomyOvanna/Networking-labs/blob/main/Lab-04-Dynamic-Routing-OSPF/README.md)  | Dynamic routing with OSPF |
+| [`Lab-05-Multi-Area-OSPF-Loopbacks`](https://github.com/nahomyOvanna/Networking-labs/blob/main/Lab-05-Multi-Area-OSPF-Loopbacks/README.md) | Multi-area OSPF with ABR + loopback advertisements |
 
 More labs coming soon 🚧
 
