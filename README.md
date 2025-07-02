@@ -8,10 +8,10 @@ I'm currently focused on mastering **enterprise routing**, **cloud infrastructur
 
 ## 🚀 Current Focus
 
-- 🧠 Learning dynamic routing protocols (OSPF, BGP)
-- 🛠️ Practicing Layer 3 troubleshooting in GNS3 and cloud labs
-- ☁️ Exploring hybrid cloud networking concepts
-- 📚 Preparing for certifications in cloud, SD-WAN, and security
+-  Learning dynamic routing protocols (OSPF, BGP)
+-  Practicing Layer 3 troubleshooting in GNS3 and cloud labs
+-  Exploring hybrid cloud networking concepts
+-  Preparing for certifications in cloud, SD-WAN, and security
 
 ---
 
