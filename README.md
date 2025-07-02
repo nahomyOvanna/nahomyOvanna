@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm Nahomy Ovanna
+# 👋 Hey there, I'm Nahomy 
 
 ### 🌐 Aspiring Cloud Infrastructure Engineer | ⚙️ GNS3 Lab Builder | 🔀 Routing Enthusiast
 
