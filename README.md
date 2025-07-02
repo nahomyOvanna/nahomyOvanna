@@ -15,6 +15,20 @@ I'm currently focused on mastering **enterprise routing**, **cloud infrastructur
 
 ---
 
+## 📂 Repositories
+
+A snapshot of my hands-on projects and study efforts across networking, security, and infrastructure design:
+
+| 🔗 Repository | 💡 Focus Area |
+|---------------|---------------|
+| [`Networking-labs`](https://github.com/nahomyOvanna/Networking-labs) | Routing, troubleshooting, and scalable cloud-ready infrastructure labs using GNS3 and VyOS |
+| [`Cybersecurity-playground`](https://github.com/nahomyOvanna/Cybersecurity-playground/tree/main) | Security-focused labs exploring attack & defense, firewall rules, Nmap scanning, and traffic analysis |
+| [`Study-notes`](https://github.com/nahomyOvanna/Study-notes) | Deep-dive notes on networking, cloud, and security — written for clarity, retention, and certification prep |
+
+Each repo is part of my journey to become a confident cloud infrastructure engineer with strong networking and security fundamentals.
+
+---
+
 ## 🔍 Projects in Progress
 
 Take a look at my lab-based repositories:
