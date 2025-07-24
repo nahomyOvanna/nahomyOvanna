@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm Nahomy 
+#  Hey there, I'm Nahomy 
 
 ### 🌐 Aspiring Cloud Infrastructure Engineer | ⚙️ GNS3 Lab Builder | 🔀 Routing Enthusiast
 
@@ -6,7 +6,7 @@ I'm currently focused on mastering **enterprise routing**, **cloud infrastructur
 
 ---
 
-## 🚀 Current Focus
+##  Current Focus
 
 -  Learning dynamic routing protocols (OSPF, BGP)
 -  Practicing Layer 3 troubleshooting in GNS3 and cloud labs
@@ -15,11 +15,11 @@ I'm currently focused on mastering **enterprise routing**, **cloud infrastructur
 
 ---
 
-## 📂 Repositories
+##  Repositories
 
 A snapshot of my hands-on projects and study efforts across networking, security, and infrastructure design:
 
-| 🔗 Repository | 💡 Focus Area |
+|  Repository |  Focus Area |
 |---------------|---------------|
 | [`Networking-labs`](https://github.com/nahomyOvanna/Networking-labs) | Routing, troubleshooting, and scalable cloud-ready infrastructure labs using GNS3 and VyOS |
 | [`Cybersecurity-playground`](https://github.com/nahomyOvanna/Cybersecurity-playground/tree/main) | Security-focused labs exploring attack & defense, firewall rules, Nmap scanning, and traffic analysis |
@@ -29,11 +29,11 @@ Each repo is part of my journey to become a confident cloud infrastructure engin
 
 ---
 
-## 🔍 Projects in Progress
+##  Projects in Progress
 
 Take a look at my lab-based repositories:
 
-| 🔗 Project | 💡 Focus Area |
+|  Project |  Primary Topic |
 |-----------|---------------|
 | [`Lab01-Static-Two-VyOS`](https://github.com/nahomyOvanna/Networking-labs/blob/main/Lab01-Static-Two-VyOS/README.md) | Static routing between two routers |
 | [`Lab02-Static-Multihop`](https://github.com/nahomyOvanna/Networking-labs/blob/main/Lab-02-Staticrouting-Multi-hop-VyOS/README.md) | Static routing across multi-hop routers |
@@ -45,7 +45,7 @@ More labs coming soon 🚧
 
 ---
 
-## 📜 Verified Certifications
+##  Verified Certifications
 
 <div>
 <a href="https://github.com/nahomyOvanna/nahomyOvanna/blob/main/CompTIA%20Security%2B%20ce%20certificate.pdf" target="_blank">
@@ -64,7 +64,7 @@ More labs coming soon 🚧
 
 ---
 
-## 🌱 About Me
+##  About Me
 
 I transitioned into tech with a mission to understand how cloud and network infrastructure shape our connected world. I learn by doing — building labs, breaking things, and fixing them again — and I document it all here to solidify my skills and help others on a similar path.
 
